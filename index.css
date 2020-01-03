@@ -1,5 +1,13 @@
 /* ALL */
+html{
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
 body{
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+section{
   width: 320px;
   margin: 0 auto;
   height: auto;
